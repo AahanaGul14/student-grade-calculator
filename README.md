@@ -14,4 +14,4 @@ A simple Python application to calculate student grades.
 - Git
 - GitHub
 
-Project status: Grade calculator with advanced grading support.
+Project status: Grade calculator with advanced grading and detailed student reports.
